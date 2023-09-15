@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "jeonyounsooesa",
+        "DB_PASSWORD": "Google.com7",
+        "DB_NAME": "mern",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
